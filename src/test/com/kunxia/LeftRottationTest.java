@@ -1,6 +1,5 @@
-package test.com.kunxia;
+package com.kunxia;
 
-import main.com.kunxia.LeftRottation;
 import org.junit.Before;
 import org.junit.Test;
 

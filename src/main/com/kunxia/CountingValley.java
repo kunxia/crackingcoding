@@ -1,4 +1,4 @@
-package main.com.kunxia;
+package com.kunxia;
 
 public class CountingValley {
     // Complete the countingValleys function below.

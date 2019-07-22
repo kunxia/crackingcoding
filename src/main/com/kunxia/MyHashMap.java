@@ -1,4 +1,4 @@
-package main.com.kunxia;
+package com.kunxia;
 
 import java.util.Objects;
 
