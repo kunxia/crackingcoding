@@ -1,4 +1,4 @@
-package com.kunxia;
+package com.kunxia.others;
 
 import java.util.Arrays;
 import java.util.stream.IntStream;
