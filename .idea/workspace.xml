@@ -2,32 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e47ee9b8-79ee-4179-9c5e-173c4af1a2ba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/com/kunxia/BestPriceAndIntervals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/com/kunxia/FindBestAvgScore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/com/kunxia/FindFirstNonRepeating.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/com/kunxia/FindLargestNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/com/kunxia/FindSecondSmallestInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/com/kunxia/Pascal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/com/kunxia/ReverseString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/com/kunxia/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/com/kunxia/others/BalancedTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/com/kunxia/others/Fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/com/kunxia/others/FindMaxTriplet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/com/kunxia/others/Singleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/com/kunxia/others/SmallestSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/com/kunxia/others/SumTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/com/kunxia/FibonacciTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/com/kunxia/FindMaxTripletTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/com/kunxia/SmallestSumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/com/kunxia/IntegerToString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/com/kunxia/ProducerAndConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/com/kunxia/TraverseMatrixInSpiral.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/com/kunxia/CountingValley.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com/kunxia/others/CountingValley.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/com/kunxia/LeftRottation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com/kunxia/others/LeftRottation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/com/kunxia/CountingValleyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/com/kunxia/CountingValleyTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/com/kunxia/LeftRottationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/com/kunxia/LeftRottationTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/kunxia/CountingValley.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/kunxia/LeftRottation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/kunxia/CountingValleyTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/kunxia/CountingValleyTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/kunxia/LeftRottationTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/kunxia/LeftRottationTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/com/kunxia/BestPriceAndIntervals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com/kunxia/BestPriceAndIntervals.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,14 +20,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/com/kunxia/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-38">
-              <caret line="16" column="27" lean-forward="true" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+            <state relative-caret-position="247">
+              <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#1466#1467#0" expanded="true" />
                 <element signature="e#1532#1533#0" expanded="true" />
+                <element signature="e#1570#1571#0" expanded="true" />
                 <element signature="e#1624#1625#0" expanded="true" />
+                <element signature="e#1653#1654#0" expanded="true" />
                 <element signature="e#1688#1689#0" expanded="true" />
-                <element signature="e#1774#1780#0" expanded="true" />
+                <element signature="e#2984#2985#0" expanded="true" />
                 <element signature="e#3037#3038#0" expanded="true" />
               </folding>
             </state>
@@ -58,7 +40,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/com/kunxia/FindSecondSmallestInArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
+            <state relative-caret-position="380">
               <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -72,8 +54,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/com/kunxia/FindBestAvgScore.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="23" column="26" lean-forward="true" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+            <state relative-caret-position="228">
+              <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -84,26 +66,52 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/com/kunxia/MyHashMap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="43" column="53" lean-forward="true" selection-start-line="38" selection-start-column="9" selection-end-line="43" selection-end-column="53" />
+            <state relative-caret-position="627">
+              <caret line="43" column="53" selection-start-line="38" selection-start-column="9" selection-end-line="43" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/com/kunxia/BestPriceAndIntervals.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="82">
+              <caret line="34" column="50" lean-forward="true" selection-start-line="34" selection-start-column="50" selection-end-line="34" selection-end-column="50" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#448#449#0" expanded="true" />
+                <element signature="e#495#496#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/com/kunxia/IntegerToString.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/com/kunxia/TraverseMatrixInSpiral.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" column="31" lean-forward="true" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/com/kunxia/BestPriceAndIntervals.java">
+        <entry file="file://$PROJECT_DIR$/src/main/com/kunxia/ProducerAndConsumer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="560">
-              <caret line="55" column="21" selection-start-line="55" selection-start-column="21" selection-end-line="55" selection-end-column="21" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#147#148#0" expanded="true" />
-                <element signature="e#169#170#0" expanded="true" />
-                <element signature="e#284#285#0" expanded="true" />
-                <element signature="e#330#331#0" expanded="true" />
-                <element signature="e#1274#1275#0" expanded="true" />
-                <element signature="e#1300#1301#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="38">
+              <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -151,14 +159,16 @@
         <option value="$PROJECT_DIR$/src/main/com/kunxia/Pascal.java" />
         <option value="$PROJECT_DIR$/src/main/com/kunxia/Solution.java" />
         <option value="$PROJECT_DIR$/src/main/com/kunxia/BestPriceAndIntervals.java" />
+        <option value="$PROJECT_DIR$/src/main/com/kunxia/IntegerToString.java" />
+        <option value="$PROJECT_DIR$/src/main/com/kunxia/TraverseMatrixInSpiral.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2548" />
-    <option name="y" value="-9" />
-    <option name="width" value="3223" />
-    <option name="height" value="1823" />
+    <option name="x" value="1910" />
+    <option name="y" value="-7" />
+    <option name="width" value="2579" />
+    <option name="height" value="1459" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -168,6 +178,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -197,14 +209,6 @@
               <item name="cracking-coding" type="b2602c69:ProjectViewProjectNode" />
               <item name="crackingcoding" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="kunxia" type="462c0819:PsiDirectoryNode" />
-              <item name="others" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cracking-coding" type="b2602c69:ProjectViewProjectNode" />
-              <item name="crackingcoding" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -218,12 +222,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565258962449" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565527558543" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
   </component>
@@ -247,7 +249,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BestPriceAndIntervals">
+  <component name="RunManager" selected="Application.TraverseMatrixInSpiral">
     <configuration name="BestPriceAndIntervals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.kunxia.BestPriceAndIntervals" />
       <module name="cracking-coding" />
@@ -261,21 +263,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindFirstNonRepeating" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kunxia.FindFirstNonRepeating" />
-      <module name="cracking-coding" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.kunxia.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FindLargestNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kunxia.FindLargestNumber" />
+    <configuration name="IntegerToString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kunxia.IntegerToString" />
       <module name="cracking-coding" />
       <extension name="coverage">
         <pattern>
@@ -313,13 +302,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TraverseMatrixInSpiral" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kunxia.TraverseMatrixInSpiral" />
+      <module name="cracking-coding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kunxia.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TraverseMatrixInSpiral" />
+        <item itemvalue="Application.IntegerToString" />
         <item itemvalue="Application.BestPriceAndIntervals" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Pascal" />
-        <item itemvalue="Application.FindLargestNumber" />
-        <item itemvalue="Application.FindFirstNonRepeating" />
       </list>
     </recent_temporary>
   </component>
@@ -372,7 +374,7 @@
     <frame x="2553" y="-4" width="2062" height="1136" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16283716" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16433567" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -426,6 +428,18 @@
           <line>21</line>
           <properties />
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/com/kunxia/IntegerToString.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/com/kunxia/IntegerToString.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="14" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -569,43 +583,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/com/kunxia/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-38">
-          <caret line="16" column="27" lean-forward="true" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1532#1533#0" expanded="true" />
-            <element signature="e#1624#1625#0" expanded="true" />
-            <element signature="e#1688#1689#0" expanded="true" />
-            <element signature="e#1774#1780#0" expanded="true" />
-            <element signature="e#3037#3038#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/com/kunxia/FindSecondSmallestInArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#152#153#0" expanded="true" />
-            <element signature="e#222#223#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/com/kunxia/FindBestAvgScore.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="23" column="26" lean-forward="true" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/com/kunxia/FindLargestNumber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="584">
@@ -616,26 +593,97 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/com/kunxia/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1466#1467#0" expanded="true" />
+            <element signature="e#1532#1533#0" expanded="true" />
+            <element signature="e#1570#1571#0" expanded="true" />
+            <element signature="e#1624#1625#0" expanded="true" />
+            <element signature="e#1653#1654#0" expanded="true" />
+            <element signature="e#1688#1689#0" expanded="true" />
+            <element signature="e#2984#2985#0" expanded="true" />
+            <element signature="e#3037#3038#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/com/kunxia/FindSecondSmallestInArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#152#153#0" expanded="true" />
+            <element signature="e#222#223#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/com/kunxia/MyHashMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="43" column="53" lean-forward="true" selection-start-line="38" selection-start-column="9" selection-end-line="43" selection-end-column="53" />
+        <state relative-caret-position="627">
+          <caret line="43" column="53" selection-start-line="38" selection-start-column="9" selection-end-line="43" selection-end-column="53" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/com/kunxia/BestPriceAndIntervals.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="560">
-          <caret line="55" column="21" selection-start-line="55" selection-start-column="21" selection-end-line="55" selection-end-column="21" />
+        <state relative-caret-position="82">
+          <caret line="34" column="50" lean-forward="true" selection-start-line="34" selection-start-column="50" selection-end-line="34" selection-end-column="50" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#147#148#0" expanded="true" />
-            <element signature="e#169#170#0" expanded="true" />
-            <element signature="e#284#285#0" expanded="true" />
-            <element signature="e#330#331#0" expanded="true" />
-            <element signature="e#1274#1275#0" expanded="true" />
-            <element signature="e#1300#1301#0" expanded="true" />
+            <element signature="e#448#449#0" expanded="true" />
+            <element signature="e#495#496#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/com/kunxia/FindBestAvgScore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/AbstractList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="159" column="13" selection-start-line="159" selection-start-column="13" selection-end-line="159" selection-end-column="13" />
+          <folding>
+            <element signature="e#5343#5344#0" expanded="true" />
+            <element signature="e#5400#5401#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/com/kunxia/IntegerToString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/com/kunxia/TraverseMatrixInSpiral.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="31" lean-forward="true" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/com/kunxia/ProducerAndConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
         </state>
       </provider>
     </entry>
