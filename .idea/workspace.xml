@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e47ee9b8-79ee-4179-9c5e-173c4af1a2ba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/com/kunxia/PeakAndTrough.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/com/kunxia/MultiplyMatrix.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -14,18 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/com/kunxia/FindBestAvgScore.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/com/kunxia/MyHashMap.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -100,14 +88,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/com/kunxia/PeakAndTrough.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+            <state relative-caret-position="359">
+              <caret line="32" column="8" lean-forward="true" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/com/kunxia/MultiplyMatrix.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="22" column="32" lean-forward="true" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -176,6 +173,7 @@
         <option value="$PROJECT_DIR$/src/main/com/kunxia/NumbersConsumer.java" />
         <option value="$PROJECT_DIR$/src/main/com/kunxia/SubmatrixSum.java" />
         <option value="$PROJECT_DIR$/src/main/com/kunxia/PeakAndTrough.java" />
+        <option value="$PROJECT_DIR$/src/main/com/kunxia/MultiplyMatrix.java" />
       </list>
     </option>
   </component>
@@ -240,7 +238,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565610329773" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565614826339" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
   </component>
@@ -267,9 +265,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PeakAndTrough">
-    <configuration name="IntegerToString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kunxia.IntegerToString" />
+  <component name="RunManager" selected="Application.MultiplyMatrix">
+    <configuration name="MultiplyMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kunxia.MultiplyMatrix" />
       <module name="cracking-coding" />
       <extension name="coverage">
         <pattern>
@@ -335,11 +333,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MultiplyMatrix" />
         <item itemvalue="Application.PeakAndTrough" />
         <item itemvalue="Application.SubmatrixSum" />
         <item itemvalue="Application.ProducerAndConsumer" />
         <item itemvalue="Application.TraverseMatrixInSpiral" />
-        <item itemvalue="Application.IntegerToString" />
       </list>
     </recent_temporary>
   </component>
@@ -401,8 +399,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32968128" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4053785" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39940238" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4053785" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39940238" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -458,6 +456,12 @@
           <line>23</line>
           <properties />
           <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/com/kunxia/MultiplyMatrix.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="15" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -734,11 +738,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/com/kunxia/PeakAndTrough.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+        <state relative-caret-position="359">
+          <caret line="32" column="8" lean-forward="true" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/com/kunxia/MultiplyMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="32" lean-forward="true" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
         </state>
       </provider>
     </entry>
